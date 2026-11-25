@@ -1,0 +1,2 @@
+{"agent_id": "ee9f7527-5ce5-4bb3-8e13-2521b2092f48", "message_id": "c5f8fc84-7267-4250-bce0-cc0d2d0b3c25", "created_at": 1795595770, "input_tokens": 1571127, "output_tokens": 12295, "model": "ipnext/avocado-5.17-v3"}
+{"agent_id": "cdb6959a-074f-4cbe-ab5b-35e731b33fbc", "message_id": "20cb788b-7e06-46a0-a6f5-e20a94367f61", "created_at": 1795595596, "input_tokens": 427307, "output_tokens": 2521, "model": "ipnext/avocado-5.17-v3"}
